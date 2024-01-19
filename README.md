@@ -21,5 +21,12 @@
 
 ## Overview
 
+- Item 1 Download compressed data source from a URL
+- Item 2 processing the downloaded raw data with PySpark, and use HDFS as file storage, check resources with Apache Hadoop YARN.
+- Item 3 Use data-generator to simulate streaming data, and send the data to Apache Kafka.
+- Item 4 Read the streaming data to Elasticsearchm and visualize it using kibana.
+- Item 5 Write the streaming data to MinIO (AWS object Storage) 
+- Item 6 Use Apache Airflow to orchestrate the whole data pipeline.
+
 ---
 
