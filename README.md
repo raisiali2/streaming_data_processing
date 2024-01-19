@@ -6,18 +6,18 @@
 
 ---
 
-Item1 Apache Airflow
-Item2 Apache Zookeeper
-Item3 Apache Kafka
-Item4 Apache Hadoop HDFS
-Item5 Apache Spark (PySpark)
-Item6 Hadoop YARN
-Item7 Elasticsearch
-Item8 Kibana
-Item9 MinIO
-Item10 Docker
-Item11 OS: Linux 
-Item12: PyCharm, VSCode
+Item 1 Apache Airflow
+Item 2 Apache Zookeeper
+Item 3 Apache Kafka
+Item 4 Apache Hadoop HDFS
+Item 5 Apache Spark (PySpark)
+Item 6 Hadoop YARN
+Item 7 Elasticsearch
+Item 8 Kibana
+Item 9 MinIO
+Item 10 Docker
+Item 11 OS: Linux 
+Item 12: PyCharm, VSCode
 
 ##Overview
 
